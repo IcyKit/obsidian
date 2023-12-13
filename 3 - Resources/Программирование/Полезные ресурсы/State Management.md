@@ -1,0 +1,5 @@
+- [MobX](https://mobx.js.org/)
+- [Effector](https://effector.dev/ru/)
+- [Redux Toolkit](https://redux-toolkit.js.org/rtk-query/overview)
+- [Zustand](https://github.com/pmndrs/zustand)
+- [Pinia](https://pinia.vuejs.org/) - стейт менеджер для Vue
